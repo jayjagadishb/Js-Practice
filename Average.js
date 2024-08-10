@@ -4,3 +4,4 @@ const calculateAverage = (arr) => {
 };
 
 console.log(calculateAverage([4, 8, 3, 9, 5]));
+
